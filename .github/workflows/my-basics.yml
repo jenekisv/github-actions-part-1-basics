@@ -17,6 +17,9 @@ jobs:
     runs-on: Ubuntu-Latest
 
     steps:
+      - name: Git Clone my repo
+        uses: actions/checkout@v1
+        
       - name: Print Hello Message
         run: echo "Hello World from Testing job"
         
@@ -35,6 +38,9 @@ jobs:
     needs: [my-testing]
 
     steps:
+      - name: Git Clone my repo
+        uses: actions/checkout@v1
+        
       - name: Print Hello Message
         run: echo "Hello World from Deploy job"
 
