@@ -63,4 +63,4 @@ jobs:
         run: aws --version
          
       - name: Lets Test some Package ZIP
-        run: zip
+        run: zip --version
