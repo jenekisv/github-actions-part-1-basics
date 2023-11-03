@@ -1,0 +1,28 @@
+# -------------------------------------
+# GitHub Action - Evgenii Sviridov 2023
+# -------------------------------------
+
+name: My-GitHubActions-Basics
+
+on: 
+  push:
+    branches: 
+      - master
+
+jobs:
+  my-testing:  
+    runs-on: Ubuntu-Latest
+
+    steps:
+      - name: Print Hello Message
+        run: echo "Hello World from Testing job"
+
+
+
+  my-deploy:  
+    runs-on: Ubuntu-Latest
+
+
+    steps:
+      - name: Print Hello Message
+        run: echo "Hello World from Deploy job"
