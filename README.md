@@ -1,6 +1,6 @@
 # github-actions-part-1-basics
 
-Status of Last Deployment:<br><br>
+# Status of Last Deployment:<br><br>
 
 ![example workflow](https://github.com/jenekisv/github-actions-part-1-basics/workflows/My-GitHubActions-Basics/badge.svg)<br>
 
