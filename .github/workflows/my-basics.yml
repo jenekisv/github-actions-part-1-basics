@@ -10,11 +10,11 @@ env:
 on: 
   push:
     branches: 
-      - mainxyx
+      - main
 
 jobs:
   my-testing:  
-    runs-on: Ubuntu-Latest
+    runs-on: WinUbuntu-Latest
 
     steps:
       - name: Git Clone my repo
