@@ -5,7 +5,7 @@ Status of Last Deployment:<br>
 <img src="http://github.com/jenekisv/github-actions-part-1-basics/workflows/My-GitHubActions-Basics/badge.svg?branch=main"><br>
 <img src="http://github.com/jenekisv/github-actions-part-1-basics/workflows/My-GitHubActions-Basics/badge.svg?branch=main"><br>
 <img src="http://github.com/jenekisv/github-actions-part-1-basics/workflows/My-GitHubActions-Basics/badge.svg?branch=main"><br>
-![Build Status](github.com/jenekisv/github-actions-part-1-basics/workflows/My-GitHubActions-Basics/jodit.svg?branch=master)
+![Build Status](github.com/jenekisv/github-actions-part-1-basics/workflows/My-GitHubActions-Basics/jodit.svg?branch=main)
 ![Build Status](https://github.com/jenekisv/github-actions-part-1-basics/workflows/My-GitHubActions-Basics/badge.svg)
 ![Build Status](https://github.com/jenekisv/github-actions-part-1-basics/workflows/My-GitHubActions-Basics/badge.svg)
 (https://github.com/jenekisv/github-actions-part-1-basics/actions/workflows/my-basics.yml)
