@@ -9,12 +9,12 @@ env:
 
 on: 
   push:
-    branches: 
+branches: 
       - main
 
 jobs:
   my-testing:  
-    runs-on: WinUbuntu-Latest
+    runs-on: Ubuntu-Latest
 
     steps:
       - name: Git Clone my repo
